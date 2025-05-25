@@ -1,4 +1,4 @@
-#Opa! Eu Sou o Ricardo Vieira
+# Opa! Eu Sou o Ricardo Vieira
 <br><br>💻 Buscando emprego (preferencia por estágios).<br>☕ Backend - Java com SpringBoot (e outras ferramentas).<br>🎲 Conhecimento em SQL principalmente com o MySql.<br>
 
 # 💻 Tech Stack:
