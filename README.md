@@ -3,7 +3,6 @@
 
 # ![](https://github-readme-stats.vercel.app/api?username=KingDanone&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-
 ## 💻 Linguagens De Programação:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
@@ -39,9 +38,10 @@ Busco um estágio em tecnologia onde eu possa aplicar meus conhecimentos, colabo
 ## 📫 Contato
 - 📧 Email: lricardolv10@gmail.com
 - 📱 Celular: (98)9 8265-9463
-- 
+ 
 ## 🌐 Social
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/l_ricardo.) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lricardovieira2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@reidanone4889/videos) 
+
 ### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ---
