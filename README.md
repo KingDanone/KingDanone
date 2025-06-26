@@ -18,7 +18,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
@@ -31,7 +30,9 @@ Sou estudante de Engenharia de Computação, atualmente no 2º módulo da Incode
 
 📊 Tenho interesse e conhecimento em modelagem de dados e bancos relacionais.
 
-🤝 Participo de workshops semanais sobre boas práticas no ambiente de trabalho e saúde emocional, aprimorando minhas soft skills.
+🤝 Participo de workshops semanais na Incode Tech Escool sobre boas práticas no ambiente de trabalho e saúde emocional, aprimorando minhas soft skills.
+
+[Mais...](https://linktr.ee/admin/links)
 
 Busco um estágio em tecnologia onde eu possa aplicar meus conhecimentos, colaborar com o time e continuar evoluindo. Estou sempre aberto a novos desafios e comprometido em entregar valor em cada projeto.
 
