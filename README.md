@@ -32,7 +32,7 @@ Sou estudante de Engenharia de Computação, atualmente no 2º módulo da Incode
 
 🤝 Participo de workshops semanais na Incode Tech Escool sobre boas práticas no ambiente de trabalho e saúde emocional, aprimorando minhas soft skills.
 
-[Mais...](https://linktr.ee/admin/links)
+[Mais...](https://linktr.ee/lricardoprofile?fbclid=PAb21jcAM9LhlleHRuA2FlbQIxMQABpxp8pon-pkpr9XhbgRbD6WJo0HLhc0WkZE19XDEsD_jQWf1q4dNQlpS1urvq_aem_rEVkzpElamg63xP8ic7_Fw)
 
 Busco um estágio em tecnologia onde eu possa aplicar meus conhecimentos, colaborar com o time e continuar evoluindo. Estou sempre aberto a novos desafios e comprometido em entregar valor em cada projeto.
 
