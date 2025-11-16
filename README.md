@@ -24,13 +24,17 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 
 ## ✍️ Sobre mim
-Sou estudante de Engenharia de Computação, atualmente no 2º módulo da Incode Tech School, onde trabalho em projetos práticos em parceria com empresas. Tenho foco em back-end, com experiência em Java, Spring Boot e SQL.
+Desenvolvedor backend, Com 9 meses de
+experiência prática, uso Java e Spring Boot.
+Desenvolvi/desenvolvo aplicações completas
+com Spring Boot e React para micro empresas
+locais, além de projetos pessoais e outros reais
+impulsionados pela universidade, através do
+projeto interdisciplinar.
 
 🚀 Atuo como 1º Tesoureiro na empresa júnior Seeds do Ceuma, desenvolvendo soluções reais (softwares e sites) para clientes internos e externos.
 
-📊 Tenho interesse e conhecimento em modelagem de dados e bancos relacionais.
-
-🤝 Participo de workshops semanais na Incode Tech Escool sobre boas práticas no ambiente de trabalho e saúde emocional, aprimorando minhas soft skills.
+📊 Tenho interesse e conhecimento em modelagem de dados e bancos relacionais, além de Analise de Dados com PowerBi e Python.
 
 [Mais...](https://linktr.ee/lricardoprofile?fbclid=PAb21jcAM9LhlleHRuA2FlbQIxMQABpxp8pon-pkpr9XhbgRbD6WJo0HLhc0WkZE19XDEsD_jQWf1q4dNQlpS1urvq_aem_rEVkzpElamg63xP8ic7_Fw)
 
